@@ -1,3 +1,6 @@
 # Dlithe_pythoninternship
 Name:U ANIRUDDHA BHAT 
 Email: 2000anirudbhat@gmail.com 
+USN: 4NM18EC185 
+Branch:ELECTRONICS AND COMMUNICATIONS 
+College :N.M.A.M. INSTITUTE OF TECHNOLOGY,NITTE 
